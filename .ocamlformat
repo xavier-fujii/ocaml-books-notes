@@ -1,0 +1,8 @@
+profile = ocamlformat
+version = 0.25.1
+break-cases = fit-or-vertical
+margin = 75
+parse-docstrings = true
+wrap-comments = true
+
+# fit|nested|toplevel|fit-or-vertical|vertical|all
