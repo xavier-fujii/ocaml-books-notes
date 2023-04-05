@@ -1,2 +1,2 @@
-# ocaml-from-the-very-beginning-notes
-notes of reading OCaml from the very beginning
+# notes of reading OCaml books
+notes of reading books about OCaml
